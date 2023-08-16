@@ -1,0 +1,11 @@
+.surgir {
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1.5s;
+}
+
+.surgir_on {
+    transform: translateY(0);
+    opacity: 1;
+}
+
